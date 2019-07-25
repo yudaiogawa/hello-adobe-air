@@ -1,7 +1,9 @@
-# Adobe AIR application by IntelliJ IDEA
+# Adobe AIR application
+
+Hello world.
 
 ## Environment
 
-* macOS HighSierra
-* IntelliJ IDEA Ultimate Edition
-* FlexSDK 3.5.0.12683B
+- macOS HighSierra
+- IntelliJ IDEA Ultimate Edition
+- FlexSDK 3.5.0.12683B
